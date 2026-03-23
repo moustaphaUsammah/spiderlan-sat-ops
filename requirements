@@ -1,8 +1,8 @@
 streamlit==1.32.0
-pandas
-numpy
-matplotib
-skyfield
-folium
-streamlit-folium
-requests
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+skyfield==1.45
+folium==0.15.1
+streamlit-folium==0.18.0
+requests==2.31.0
