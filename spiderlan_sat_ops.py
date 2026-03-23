@@ -349,7 +349,7 @@ with st.sidebar:
 if clear_state:
     for k, v in defaults.items():
         st.session_state[k] = v
-    st.rerun()
+    st.experimental_rerun()
 
 # =========================================================
 # LOAD STARLINK
