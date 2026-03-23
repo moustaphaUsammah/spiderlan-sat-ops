@@ -2,6 +2,7 @@ from skyfield.api import load, wgs84
 import streamlit as st
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt matplotlib==3.8.4
 import folium
 from folium.plugins import HeatMap
 from streamlit_folium import st_folium
