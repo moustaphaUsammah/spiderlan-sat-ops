@@ -11,7 +11,9 @@ Starlink-aware NTN operations platform for RF analysis, trust scoring, handover 
 - Incident logging
 - CloudRF integration
 
+  
+
 ## Run
 ```bash
-python -m pip install -r requirements.txt
-python -m streamlit run spiderlan_sat_ops.py
+pip install -r requirements.txt
+streamlit run spiderlan_sat_ops.py
