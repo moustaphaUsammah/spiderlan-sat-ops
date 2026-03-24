@@ -12,7 +12,13 @@ Starlink-aware NTN operations platform for RF analysis, trust scoring, handover 
 - CloudRF integration
 
   
+## Teh Stack
+- Python
+- Skyshield
+- RF Analysis
+- Streamlit
 
+  
 ## Run
 ```bash
 pip install -r requirements.txt
