@@ -1,6 +1,6 @@
 # SpiderLan SAT Ops
 
-Starlink-aware NTN operations platform for RF analysis, trust scoring, handover intelligence, incident logging, and integrated threat visualization.
+#Starlink-aware NTN operations platform for RF analysis, trust scoring, handover intelligence, incident logging, and integrated threat visualization.
 
 
 ## Preview 
